@@ -1,0 +1,68 @@
+.footer{
+    background-color: #181818;
+   padding-bottom: 50px;
+}
+
+.footer__box{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    border-bottom:1px solid #2A2A2A ;
+}
+.f__list{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-top: 36px;
+}
+
+.github{
+    margin-left: 28px;
+}
+
+.product__item{
+    list-style: none;
+    margin-bottom: 12px;
+}
+
+.product__link{
+    text-decoration: none;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+color: #E0E0E0;
+}
+
+.product__link:hover{
+    color:  #9d9696;
+}
+
+.product__link:active{
+   color: #4d4c4c;
+}
+// ldmewkmwekoewklcnewco
+
+.last__box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.sub__list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.sub__item{
+    margin-left: 10px;
+}
+
+
+
+
+

@@ -1,0 +1,122 @@
+header{
+    background-color:  #181818;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+   
+}
+
+.header__list{
+    display: flex;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 28px;
+}
+
+.header__item{
+    margin-left: 28px;
+    list-style:none ;
+}
+
+.header__link{
+    text-decoration: none;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #EEEEEE;
+}
+
+.header__link:hover{
+    color: #FFFFFF;
+    background: #2A2A2A;
+box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
+border-radius: 4px;
+}
+.header__link:active{
+    color: #696464;
+    background: #2A2A2A;
+box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
+border-radius: 4px;
+}
+
+// qclwdnknkjdnco
+
+.sign__list{
+    display: flex;
+    align-items: center;
+    // justify-content: space-between;
+   margin-left: 432px;
+}
+
+.sign__item{
+    list-style: none;
+}
+
+.sign__link{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+text-decoration: none;
+text-align: center;
+color: #FFFFFF;
+padding: 7px 11px;
+background: #24B47E;
+box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
+border-radius: 4px;
+}
+
+.sign__link:hover{
+    color: #FFFFFF;
+padding: 7px 11px;
+background: #78e9bf;
+box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
+border-radius: 4px;
+}
+
+.sign__link:active{
+    color: #FFFFFF;
+    padding: 7px 11px;
+    background: #0f6244;
+    box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
+    border-radius: 4px;  
+}
+
+.sign__linka{
+    margin-left: 20px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+text-decoration: none;
+text-align: center;
+color: #FFFFFF;
+padding: 7px 11px;
+box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
+border-radius: 4px;
+}
+
+.sign__linka:hover{
+    color: #FFFFFF;
+padding: 7px 11px;
+background: black;
+box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
+border-radius: 4px;
+}
+.sign__linka:active{
+    color: #e2caca;
+    padding: 7px 11px;
+    background: rgb(80, 78, 78);
+    box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
+    border-radius: 4px;
+}
+
